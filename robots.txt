@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Path2pathology.github.io/sitemap.xml
+Sitemap: https://Path2pathology.github.io/Path2pathology/sitemap.xml
